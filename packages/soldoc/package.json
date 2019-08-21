@@ -30,13 +30,11 @@
     "@soldoc/markdown": "^0.1.0",
     "chalk": "^2.3.1",
     "deep-assign": "^2.0.0",
+    "@openzeppelin/contracts": "^2.3.0",
     "fs-extra": "^5.0.0",
     "shelljs": "^0.8.1",
-    "solc": "^0.4.19",
+    "solc": "^0.5.11",
     "valid-url": "^1.0.9",
     "yargs": "^11.0.0"
-  },
-  "devDependencies": {
-    "zeppelin-solidity": "^1.6.0"
   }
 }
